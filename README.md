@@ -22,8 +22,16 @@ To get started with DDAMP locally, follow the instructions below.
 1. **Node.js**: Make sure Node.js is installed (Version 14 or above recommended).
 2. **Blockchain Tools**: Set up the required blockchain development environment (using **Midnight Blockchain**).
 
-### Clone the repository
+   
+Contact
+For inquiries or support, reach out to us via email:
 
-```bash
-git clone https://github.com/your-username/DDAMP.git
-cd DDAMP
+Benjamin Tuyisenge: benjaminwell250@gmail.com
+
+Joseph Mugisha: mugishajoseph092@gmail.com
+
+Amis Paradis Ishimwe: pishimweaime7@gmail.com
+
+Marie Pauline Ishimwe: paulineishimwe12@gmail.com
+
+
