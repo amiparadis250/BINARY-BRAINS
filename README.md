@@ -30,7 +30,7 @@ Benjamin Tuyisenge: benjaminwell250@gmail.com
 
 Joseph Mugisha: mugishajoseph092@gmail.com
 
-Amis Paradis Ishimwe: pishimweaime7@gmail.com
+Ami Paradis Ishimwe: pishimweaime7@gmail.com
 
 Marie Pauline Ishimwe: paulineishimwe12@gmail.com
 
